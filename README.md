@@ -2,6 +2,6 @@
 
 # Final App
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
 
 >The starter code was provided by The App Brewery's Complete Flutter Development Bootcamp.
